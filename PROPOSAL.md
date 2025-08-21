@@ -2,10 +2,10 @@
 
 Authors:
 
-- Irma Barrios
 - King McLeod
-- Tyreese Wray
 - Joshua Young
+- Irma Barrios
+- Tyreese Wray
 
 Team Name: KJIT Corp
 
